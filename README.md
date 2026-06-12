@@ -24,3 +24,8 @@ This repository contains software installation standards, procedures, and versio
 
 See: software/source-control/git.md
 
+
+
+\### Microsoft.DotNet.SDK.9
+
+See: software/dotnet/dotnet-sdk-9.md
